@@ -1,5 +1,5 @@
 ### Goal
-Ticket: [-<Number>](WE-<Number>)
+Ticket: [WE-<Number>](WE-<Number>)
 
 ### Changes
 
