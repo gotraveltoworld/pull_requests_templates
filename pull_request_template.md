@@ -1,9 +1,7 @@
 ### Goal
-<Why do we need this feature?>
-Ticket: [WE-<Number>](https://shopadmin.atlassian.nt/browse/WE-<Number>)
+Ticket: [-<Number>](WE-<Number>)
 
 ### Changes
-<What changes you implement?>
 
 ### TODO
 
